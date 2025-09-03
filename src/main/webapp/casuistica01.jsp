@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <title>Casuística 01 — Cálculo de Descuentos</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!-- Ajusta la ruta si pones el CSS en otro lugar -->
+
     <link rel="stylesheet" href="assets/styles.css" />
 </head>
 <body>
